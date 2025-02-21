@@ -221,6 +221,12 @@ img {
         height: 100px;
     }
 
+    .container-body {
+        margin: auto;
+        max-width: 85%;
+        padding: 20px;
+    }
+    
     .paragraphs {
         padding: 20px;
     }
