@@ -210,6 +210,20 @@ img {
         font-size: 16px;
     }
 
+    .content-1 {
+        /* width: 90px;
+        padding: 0px; */
+        flex: 1 1 80px;
+        max-width: 120px;
+        padding: 10px 20px;
+        /* justify-content: center; */
+    }
+
+    .container-body {
+        max-width: 85%;
+        padding: 20px;
+    }
+
     .box {
         flex: 1 1 80px;
         max-width: 120px;
@@ -221,12 +235,6 @@ img {
         height: 100px;
     }
 
-    .container-body {
-        margin: auto;
-        max-width: 85%;
-        padding: 20px;
-    }
-    
     .paragraphs {
         padding: 20px;
     }
